@@ -6,13 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabir2019365&label=Profile%20views&color=0e75b6&style=flat" alt="shabir2019365" /> </p>
 
-- 🔭 I’m currently learning **Chip design Process**
+- 🔭 I’m currently learning **Chip design, RISC-V**
 
-- 🌱 I’m currently learning **Linux, Verilog, VHDL, Spike**
+- 🌱 I’m currently learning **Linux, Verilog, VHDL, Spike, Bash scripting**
 
 - 🤝 I’m looking for help with **formal verification**
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/muhammad-shabir-khan-802b7822b/](https://www.linkedin.com/in/muhammad-shabir-khan-802b7822b/)
+- 📝 I regularly write articles on **LinkedIn**
 
 - 💬 Ask me about **Anything**
 
