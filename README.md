@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/shabir2019365/shabir2019365/blob/main/E-nZxpc79.png)
 <h1 align="center">Hi 👋, I'm Muhammad Shabir Khan</h1>
 <h3 align="center">A passionate Electrical Engineer from Pakistan</h3>
 
